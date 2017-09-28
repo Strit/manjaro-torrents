@@ -1,0 +1,8 @@
+690b949f392214e31f6c0d4982f6edc0  manjaro-kde-0.8.9-i686.iso
+286b9b2dd562db02e0664a016192158c  manjaro-kde-0.8.9-x86_64.iso		
+9f1d610ebe049155de4feec9c115751f  manjaro-net-0.8.9-i686.iso
+d38803502404f96fb5aa865e137e0d19  manjaro-net-0.8.9-x86_64.iso
+8cb4992825d59e546ab0598ff99c0a1e  manjaro-openbox-0.8.9-i686.iso
+78c5528fc720b8869e1cabc90d390c11  manjaro-openbox-0.8.9-x86_64.iso
+614d0ee249ec6cf02adfb06a88546cd4  manjaro-xfce-0.8.9-i686.iso
+1604bbf4faa0bb4673b4432046688f6d  manjaro-xfce-0.8.9-x86_64.iso

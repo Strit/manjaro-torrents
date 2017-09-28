@@ -1,0 +1,8 @@
+1af2a9b277264669bbd0b719cd32b9ee  manjaro-kde-0.8.8-i686.iso
+26b5b2c90450e04a9b0eda41e980885f  manjaro-kde-0.8.8-x86_64.iso
+51a2a961bed2e16085a1d9c93a2ccd36  manjaro-net-0.8.8-i686.iso
+3008aa2bccf353732d33953216da106a  manjaro-net-0.8.8-x86_64.iso
+752301869a1b73028af74057f20f141e  manjaro-openbox-0.8.8-i686.iso
+c2915254f0b59fe7afd025ec1ee2f752  manjaro-openbox-0.8.8-x86_64.iso
+aaf7f906b476b08f87249e76200e6cb7  manjaro-xfce-0.8.8-i686.iso
+253aa841e57e4330e7022e9f555c62d8  manjaro-xfce-0.8.8-x86_64.iso

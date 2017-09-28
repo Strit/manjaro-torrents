@@ -1,0 +1,12 @@
+18c2bf20f42d73f736a15297725efa33  manjaro-kde-0.8.10-i686.iso
+cf606b1ec66baedbc651ab332fe9fd61  manjaro-kde-0.8.10-x86_64.iso
+21d139fe690c68a9d3ee9ca8e065bd67  manjaro-xfce-minimal-0.8.10-i686.iso
+54d0cd5d1e336f18c47a6d0ebf4f30db  manjaro-xfce-minimal-0.8.10-x86_64.iso
+15762ca2096c20fafe44c5cd8f3b18c6  manjaro-xfce-0.8.10-i686.iso
+d7ad192aa4d7da4814420dcd4e3b2694  manjaro-xfce-0.8.10-x86_64.iso
+156b788aa6d8cbb9d6d4d70d7a5775c4  manjaro-net-0.8.10-i686.iso
+e0d2183294b6eeffb30ec1d4d62b9e41  manjaro-net-0.8.10-x86_64.iso
+e753f85df357d0df526ec52974be9e9c  manjaro-openbox-0.8.10-i686.iso
+78871e7805950a0f47bb6477ddbc0acf  manjaro-openbox-0.8.10-x86_64.iso
+
+

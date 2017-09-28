@@ -1,0 +1,6 @@
+03e69180eb25f713e208c297c9e69769  manjaro-kde-0.8.12-i686.iso
+35d6ec0175a21038c7a11f69c3e71e6f  manjaro-kde-0.8.12-x86_64.iso
+de069ecdf7aa1e56c520966eafbe9539  manjaro-net-0.8.12-i686.iso
+361fc55925ca0d550aba41c53b1b37d0  manjaro-net-0.8.12-x86_64.iso
+dca95547ae353e945af3d441f82667b9  manjaro-xfce-0.8.12-i686.iso
+8fc442a4339568a112ab7735f5d967a8  manjaro-xfce-0.8.12-x86_64.iso
