@@ -4,5 +4,9 @@ These ISO's are supported by the Manjaro team.
 
 ### To download the ISO using a torrent file, just download the file and open it with your Bittorrent client (like Deluge, Transmission etc).
 
-### ISO checksums have been moved from this file, into their own files in the "checksums" folder of each Manjaro edition.
-For example, the MATE iso checksum files are located in Home -> community -> MATE -> 15.12 -> checksums.
+### ISO checksums can be downloaded from the official ISO download locations here:
+[Manjaro Official Releases](https://sourceforge.net/projects/manjarolinux/files/release/)
+[Manjaro Community Releases](https://sourceforge.net/projects/manjarolinux-community/files/)
+[Mabox Linux](https://sourceforge.net/projects/mabox-linux/files/english/)
+[Kibojoe](https://sourceforge.net/projects/kibojoe/files/?source=navbar)
+[Manjaro Strit](https://www.strits.dk)
